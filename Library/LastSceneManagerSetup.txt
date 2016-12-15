@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/oculus/Dropbox/3d/Unity/PC_Unity_Documents/thornebrandt_samples/subchroma_thornebrandt_cubes/assets/Scenes/animated_cube.unity
+  isLoaded: 1
+  isActive: 1
